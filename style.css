@@ -102,3 +102,7 @@ h2 {
 footer p {
     text-align: center;
 }
+
+footer {
+    background-color: rgba(0, 0, 255, 0.522);
+}
